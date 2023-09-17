@@ -10,5 +10,13 @@ body {
   overflow-x: hidden;
 }
 
+a{
+  text-decoration: none;
+}
+
+img{
+  background-color: lightblue;
+}
+
 
 
